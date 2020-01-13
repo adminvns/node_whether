@@ -9,3 +9,4 @@ http.createServer(function (req, res) {
 
 console.log("server started");
 console.log("server running on http://127.0.0.1:1000/");
+console.log("Press ctrl+c command to stop the server");
